@@ -226,6 +226,12 @@
     border-radius: 2000px;
 }
 
+@media (min-width:500px) {
+    .notshow {
+        display: none;
+    }
+}
+
 @media (max-width:500px) {
     .container {
         max-width: 1200px;
