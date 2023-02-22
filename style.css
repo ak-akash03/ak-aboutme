@@ -154,7 +154,7 @@
 
 .socialMedia {
     /* background-color: yellow; */
-    padding-top: 300px;
+    padding-top: 450px;
 }
 
 .socialMedia .SM img {
@@ -267,8 +267,8 @@
     }
     .socialMedia {
         /* background-color: yellow; */
-        padding-top: 750px;
-        height: 900px;
+        padding-top: 870px;
+        height: 90px;
     }
     .socialMedia .SM img {
         /* background-color: red; */
@@ -328,4 +328,18 @@
         width: 50px;
         float: left;
     }
+}
+
+.lastspan {
+    color: rgb(27, 126, 255);
+    /* margin-top: 20px; */
+}
+
+.socialMedia {
+    padding-bottom: 20px;
+}
+
+.lastdiv {
+    /* background-color: red; */
+    padding-top: 50px;
 }
