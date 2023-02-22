@@ -226,7 +226,7 @@
     border-radius: 2000px;
 }
 
-@media (min-width:500px) {
+@media (min-width:960px) {
     .notshow {
         display: none;
     }
@@ -393,6 +393,14 @@
         height: auto;
         width: 50px;
         float: left;
+    }
+}
+
+@media (max-width:590px) {
+    .socialMedia {
+        /* background-color: yellow; */
+        padding-top: 920px;
+        height: 90px;
     }
 }
 
