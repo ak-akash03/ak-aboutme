@@ -330,6 +330,72 @@
     }
 }
 
+@media (max-width:1000px) {
+    .socialMedia {
+        /* background-color: yellow; */
+        padding-top: 970px;
+        height: 90px;
+    }
+    .socialMedia .SM img {
+        /* background-color: red; */
+        height: 40px;
+    }
+    .instagram {
+        /* background-color: darkblue; */
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .linkedin {
+        height: auto;
+        width: 50px;
+        float: left;
+        margin-left: 20px;
+    }
+    .facebook {
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .twitter {
+        display: none;
+        /* height: auto;
+        width: 50px;
+        float: left; */
+    }
+    .github {
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .whatsapp {
+        /* background-color: saddlebrown; */
+        display: none;
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .telegram {
+        /* background-color: rebeccapurple; */
+        display: none;
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .snapchat {
+        /* background-color: yellow; */
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+    .youtube {
+        /* background-color: yellow; */
+        height: auto;
+        width: 50px;
+        float: left;
+    }
+}
+
 .lastspan {
     color: rgb(27, 126, 255);
     /* margin-top: 20px; */
