@@ -4,10 +4,10 @@ html {
     margin: 0;
     padding: 0;
     font-family: 'Helvetica', sans-serif;
-    background: rgb(26, 188, 156);
-    background: -moz-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgb(231, 176, 255) 100%);
-    background: -webkit-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgb(106, 84, 116) 100%);
-    background: linear-gradient(135deg, rgba(26, 188, 156, 1) 0%, rgb(224, 175, 245) 100%);
+    background: rgb(191, 255, 242);
+    background: -moz-linear-gradient(-45deg, rgb(90, 195, 236) 0%, rgb(231, 176, 255) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(103, 226, 201) 0%, rgb(106, 84, 116) 100%);
+    background: linear-gradient(135deg, rgb(106, 228, 116) 0%, rgb(224, 175, 245) 100%);
 }
 
 * {
@@ -432,4 +432,11 @@ html {
 .lastdiv {
     /* background-color: red; */
     padding-top: 50px;
+}
+
+
+/* ______________________________________________ */
+
+.saturate:hover {
+    filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
 }
