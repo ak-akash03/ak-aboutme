@@ -333,7 +333,7 @@
 @media (max-width:1000px) {
     .socialMedia {
         /* background-color: yellow; */
-        padding-top: 970px;
+        padding-top: 980px;
         height: 90px;
     }
     .socialMedia .SM img {
@@ -399,7 +399,7 @@
 @media (max-width:590px) {
     .socialMedia {
         /* background-color: yellow; */
-        padding-top: 920px;
+        padding-top: 1000px;
         height: 90px;
     }
 }
