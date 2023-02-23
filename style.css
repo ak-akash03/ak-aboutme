@@ -80,6 +80,9 @@ html {
 
 .container .first img {
     height: 249px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    padding: 5px;
     border-radius: 500px;
 }
 
