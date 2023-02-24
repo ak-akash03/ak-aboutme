@@ -242,6 +242,16 @@ html {
     border-radius: 2000px;
 }
 
+.saturate:hover {
+    filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
+}
+
+.mmx h2 {
+    font-size: 100px;
+    padding: 100px 0px;
+    text-align: center;
+}
+
 @media (min-width:960px) {
     .notshow {
         display: none;
@@ -347,6 +357,12 @@ html {
     .saturate:hover {
         filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
     }
+    .mmx h2 {
+        font-size: 35px;
+        margin-top: 30px;
+        text-align: center;
+        /* background-color: red; */
+    }
 }
 
 @media (max-width:1000px) {
@@ -445,7 +461,3 @@ html {
 
 
 /* ______________________________________________ */
-
-.saturate:hover {
-    filter: drop-shadow(0 0 0.75rem rgb(0, 0, 0));
-}
